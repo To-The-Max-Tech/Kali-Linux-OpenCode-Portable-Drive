@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/To-The-Max-Tech/Kali-Linux-OpenCode-Portable-Drive/refs/heads/main/docs/kali_linux_opencode_portable_pentest_drive_1280x640.png)
 
 # 🖥️ Kali-Linux-OpenCode-Portable-Drive
 
